@@ -1,5 +1,5 @@
-# PyShop
-> This is an online shopping website created using **Django** Framework.
+# PyShop (Backend)
+> This is a **Backend** implementation of an online shopping website created using **Django** Framework.
 
 ## Brief Instructions
 * Start your virtual environment by running:  
